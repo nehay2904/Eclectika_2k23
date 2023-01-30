@@ -1,0 +1,88 @@
+.home{
+    height: 100vh;
+    background-image:linear-gradient(rgba(15, 15, 95,0.4), rgba(10, 11, 89,0.4)), url('../../Images/Final_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* // linear-gradient(rgba(40, 52, 52,0.4), rgba(42, 41, 54,0.4)), */
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30%;
+    flex-direction: column;
+}
+.titlecon{
+    display: flex;
+}
+.logo{
+    justify-content: center;
+    align-items: center;
+    top:35%;
+    left:37%;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+}
+.Home_title{
+    font-weight: 700;
+    font-size: 90px;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+	background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(56, 57, 56, 0.8));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subtitle{
+    font-size: 20px;
+    color:#99a0a7;
+}
+@media (max-width:900px) {
+    .home{
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        background-color: rgb(32, 69, 32);
+    }
+    .wrapper{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo{
+        justify-content: center;
+        align-items: center;
+        top:30%;
+        left:30%;
+        position: absolute;
+        width: 200px;
+        height: 250px;
+    }
+    .Home_title{
+        font-weight: 800;
+        font-size: 50px;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+        background: linear-gradient(rgba(106, 202, 132, 0.8), rgba(38, 83, 54, 0.8));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    
+.subtitle{
+    font-size: 12px;
+    
+}
+}

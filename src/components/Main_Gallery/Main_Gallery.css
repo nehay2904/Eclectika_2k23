@@ -1,0 +1,164 @@
+.Overall_Gallery{
+    margin: 0;
+    min-height: 120vh;
+    background: #000;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 2px solid whitesmoke;
+  }
+  
+  .container {
+    display: flex;
+    margin: 10vmin;
+    overflow: hidden;
+    margin-bottom: 50px;
+    position: absolute;
+    padding:130px 0px;
+  }
+
+ .title_gallery{
+  z-index: 99;
+ }
+  .gallery_title{
+    color: aliceblue;
+    font-size: 75px;
+    letter-spacing: 8px;
+  }
+  .container .card {
+    flex: 1;
+    transition: all 0.5s ease-in-out;
+    height: 370px;
+    margin-left: 10px;
+    background-color: rgb(18, 18, 134); 
+  }
+  .container .alt_card{
+    margin-top: 90px;
+    background-color: rgb(107, 16, 137);
+    
+  }
+  .container .card:hover {
+    flex-grow: 10;
+  }
+ .image-title{
+   color: aliceblue;
+   text-align: center;
+   margin-top: 20px;
+   display: none;
+ }
+  .container .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 1s ease-in-out;
+    position: relative;
+    z-index: 0;
+    opacity: 0.4;
+  }
+  .container .card:hover img {
+    opacity: 1;
+    z-index: 1;
+  }
+  .container .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 1s ease-in-out;
+ }
+ 
+@media (max-width:900px){
+  .Overall_Gallery{
+    margin: 0;
+    height: 220vh;
+    background: #000;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .container {
+    display: flex;
+    margin: 10vmin;
+    overflow: hidden;
+    margin-bottom: 50px;
+    position: static;
+  }
+
+ 
+  .container .card:hover {
+    flex-grow: 10;
+  }
+ .image-title{
+   color: aliceblue;
+   text-align: center;
+   margin-top: 20px;
+   display: none;
+ }
+  .container .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 1s ease-in-out;
+    position: relative;
+    z-index: 0;
+    opacity: 0.4;
+  }
+  
+  .container .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 1s;
+ }
+ /*  */
+ .title_gallery{
+  display: none;
+ }
+ 
+
+.container .alt_card{
+  margin-top: 0px;
+  background-color: rgb(129, 5, 218, 0.7);
+  
+}
+
+ .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10vmin;
+  overflow: hidden;
+  margin-bottom: 50px;
+  position: absolute;
+  flex-direction: column;
+}
+.container .card {
+  flex: 1;
+  transition:1s;
+  height:280px;
+  width: 260px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0px;
+  background-color: rgb(18, 18, 134, 0.7); 
+  margin-top: 30px;
+}
+  
+.container .card img {
+  width:260px ;
+  height:280px;
+  object-fit: cover;
+  transition: 0.5s;
+}
+.container .card:hover img {
+  opacity: 1;
+  z-index: 1;
+  height:330px;
+}
+
+}
