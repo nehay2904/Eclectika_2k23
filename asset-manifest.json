@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Eclectika_2k23/static/css/main.ef7f8643.css",
-    "main.js": "/Eclectika_2k23/static/js/main.ec53f37a.js",
-    "static/media/black_logo.png": "/Eclectika_2k23/static/media/black_logo.e9ba1b843cfb2389be36.png",
-    "static/media/Final_bg.png": "/Eclectika_2k23/static/media/Final_bg.dc34ac40f476ad2a1bfb.png",
-    "static/media/Events_image.png": "/Eclectika_2k23/static/media/Events_image.3202c1ad7a98eb4d7015.png",
-    "static/media/One_Event.jpeg": "/Eclectika_2k23/static/media/One_Event.b02b2625f86cda3c807f.jpeg",
-    "static/media/Five_Event.jpeg": "/Eclectika_2k23/static/media/Five_Event.8ed9e2f1fcf681d02b30.jpeg",
-    "static/media/Four_Event.jpeg": "/Eclectika_2k23/static/media/Four_Event.865b2f6701f2c7c7c1f8.jpeg",
-    "static/media/Main_logo.png": "/Eclectika_2k23/static/media/Main_logo.5f27cf6c12ef8f22acdf.png",
-    "static/media/spons_3.png": "/Eclectika_2k23/static/media/spons_3.863da8e5649f423877b0.png",
-    "static/media/spons_10.png": "/Eclectika_2k23/static/media/spons_10.679d8f9e011bda04706f.png",
-    "static/media/spons_9.png": "/Eclectika_2k23/static/media/spons_9.10d6df144bd0d90df680.png",
-    "static/media/spons_1.png": "/Eclectika_2k23/static/media/spons_1.b34d4f2e49d6722fc46c.png",
-    "static/media/spons_7.png": "/Eclectika_2k23/static/media/spons_7.870465e587cf4d42ec9d.png",
-    "static/media/spons_6.png": "/Eclectika_2k23/static/media/spons_6.bb51556da4307cd579ca.png",
-    "static/media/spons_8.png": "/Eclectika_2k23/static/media/spons_8.ad436d136832f04a01b0.png",
-    "static/media/spons_2.png": "/Eclectika_2k23/static/media/spons_2.1b98046ca094f5892b42.png",
-    "index.html": "/Eclectika_2k23/index.html",
-    "main.ef7f8643.css.map": "/Eclectika_2k23/static/css/main.ef7f8643.css.map",
-    "main.ec53f37a.js.map": "/Eclectika_2k23/static/js/main.ec53f37a.js.map"
+    "main.css": "/Eclectika/static/css/main.d94fa55d.css",
+    "main.js": "/Eclectika/static/js/main.e4371dcb.js",
+    "static/media/black_logo.png": "/Eclectika/static/media/black_logo.e9ba1b843cfb2389be36.png",
+    "static/media/Final_bg.png": "/Eclectika/static/media/Final_bg.dc34ac40f476ad2a1bfb.png",
+    "static/media/Events_image.png": "/Eclectika/static/media/Events_image.3202c1ad7a98eb4d7015.png",
+    "static/media/One_Event.jpeg": "/Eclectika/static/media/One_Event.b02b2625f86cda3c807f.jpeg",
+    "static/media/Five_Event.jpeg": "/Eclectika/static/media/Five_Event.8ed9e2f1fcf681d02b30.jpeg",
+    "static/media/Four_Event.jpeg": "/Eclectika/static/media/Four_Event.865b2f6701f2c7c7c1f8.jpeg",
+    "static/media/Main_logo.png": "/Eclectika/static/media/Main_logo.5f27cf6c12ef8f22acdf.png",
+    "static/media/spons_3.png": "/Eclectika/static/media/spons_3.863da8e5649f423877b0.png",
+    "static/media/spons_10.png": "/Eclectika/static/media/spons_10.679d8f9e011bda04706f.png",
+    "static/media/spons_9.png": "/Eclectika/static/media/spons_9.10d6df144bd0d90df680.png",
+    "static/media/spons_1.png": "/Eclectika/static/media/spons_1.b34d4f2e49d6722fc46c.png",
+    "static/media/spons_7.png": "/Eclectika/static/media/spons_7.870465e587cf4d42ec9d.png",
+    "static/media/spons_6.png": "/Eclectika/static/media/spons_6.bb51556da4307cd579ca.png",
+    "static/media/spons_8.png": "/Eclectika/static/media/spons_8.ad436d136832f04a01b0.png",
+    "static/media/spons_2.png": "/Eclectika/static/media/spons_2.1b98046ca094f5892b42.png",
+    "index.html": "/Eclectika/index.html",
+    "main.d94fa55d.css.map": "/Eclectika/static/css/main.d94fa55d.css.map",
+    "main.e4371dcb.js.map": "/Eclectika/static/js/main.e4371dcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef7f8643.css",
-    "static/js/main.ec53f37a.js"
+    "static/css/main.d94fa55d.css",
+    "static/js/main.e4371dcb.js"
   ]
 }
